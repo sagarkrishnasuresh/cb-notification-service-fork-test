@@ -1,4 +1,4 @@
-package com.igot.cb.health.controller;
+package com.igot.cb.Health.controller;
 
 import com.igot.cb.health.service.HealthService;
 import org.junit.jupiter.api.BeforeEach;
